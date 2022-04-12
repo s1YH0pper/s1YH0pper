@@ -2,9 +2,9 @@
 - 👀 I’m interested in music game,fps game and act game
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--     email:QQ:1147083390@qq.com
--           Gmail:siyhopper.119@gmail.com
+-     you can to find me by
+-     QQmail:1147083390@qq.com
+-     Gmail:siyhopper.119@gmail.com
 -     CoolApkID:s1yh0pper
 -     QQ:1147083390
 <!---
