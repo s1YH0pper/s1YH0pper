@@ -1,4 +1,8 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1YH0pper)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1YH0pper)
+![Metrics](/github-metrics.svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1YH0pper)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1YH0pper)
 - 👋 Hi, I’m @s1YH0pper
 - 👀 I’m interested in music game,fps game and act game
 - 🌱 I’m currently learning Java and Python
