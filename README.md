@@ -6,8 +6,6 @@
 </p>
 💻 Amateur Back-end Developer
 
-![Metrics](/github-metrics.svg)
-
 ## Connect
 
 - QQmail:1147083390@qq.com
