@@ -3,12 +3,10 @@
 
 I enjoy the *craft* of coding: clear logic, good structure, and systems that feel elegant to use.
 
-<!--
-<p align="left">
-<img alt="s1YH0pper's GitHub stats" height='200' src="https://github-readme-stats.vercel.app/api?username=s1YH0pper">
-<img alt="Top Langs" height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1YH0pper">
-</p>
--->
+<div>
+  <img alt="s1YH0pper's GitHub stats" height=200 src="https://github-readme-stats.vercel.app/api?username=s1YH0pper&theme=transparent">
+  <img alt="Top Langs" height=195 src="https://github-readme-stats.vercel.app/api/top-langs/?username=s1YH0pper&theme=transparent">
+</div>
 
 ## 🔧 What I Work On
 
